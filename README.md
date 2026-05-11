@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ![snake gif](https://github.com/wolfsbane1/wolfsbane1/blob/output/github-contribution-grid-snake-dark.svg)
