@@ -16,3 +16,6 @@
 ![snake gif](https://github.com/wolfsbane1/wolfsbane1/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+
+[![Click to Play DOOM](https://github.com/wolfsbane1/DoomMe/raw/main/static/start-visual.gif)](https://github.com/wolfsbane1/DoomMe/blob/main/menu/episode_1.md)
