@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-[![Play DOOM](https://img.shields.io/badge/Play-DOOM-red?style=for-the-badge)](https://wolfsbane1.github.io/doom/)
-
 ```txt
 ██╗    ██╗ ██████╗ ██╗     ███████╗███████╗██████╗  █████╗ ███╗   ██╗███████╗
 ██║    ██║██╔═══██╗██║     ██╔════╝██╔════╝██╔══██╗██╔══██╗████╗  ██║██╔════╝
